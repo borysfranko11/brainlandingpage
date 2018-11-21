@@ -9,8 +9,8 @@
 <meta name="keywords" content="" />
 <meta name="description" content="" />
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-<link rel="stylesheet" type="text/css" href="css/style.css" media="all" />
-<link rel="stylesheet" type="text/css" href="common/font-awesome-4.7.0/css/font-awesome.min.css" media="all" />
+<link rel="stylesheet" type="text/css" href="./css/style.css" media="all" />
+<link rel="stylesheet" type="text/css" href="./common/font-awesome-4.7.0/css/font-awesome.min.css" media="all" />
 </head>
 <body>
   <div id="wrapper">
@@ -181,28 +181,28 @@
 					<div class="col-md-6 col-sm-6 col-xs-6 left-top quarant-part" data-id="1">
 						<div class="video1 video">
 								<video loop muted="" playsinline="" class="nav-video1">
-									<source src="video/dummy.mp4" type="video/mp4">
+									<source src="./video/dummy.mp4" type="video/mp4">
 								</video>
 						</div>																										
 					</div>
 					<div class="col-md-6 col-sm-6 col-xs-6 right-top quarant-part" data-id="3">
 							<div class="video3 video">
 									<video loop muted="" playsinline="" class="nav-video1">
-										<source src="video/dummy.mp4" type="video/mp4">
+										<source src="./video/dummy.mp4" type="video/mp4">
 									</video>
 								</div>											
 					</div>
 					<div class="col-md-6 col-sm-6 col-xs-6 left-bottom quarant-part" data-id="2">
 							<div class="video2 video">
 									<video loop muted="" playsinline="" class="nav-video1">
-										<source src="video/dummy.mp4" type="video/mp4">
+										<source src="./video/dummy.mp4" type="video/mp4">
 									</video>
 								</div>											
 					</div>								
 					<div class="col-md-6 col-sm-6 col-xs-6 right-bottom quarant-part" data-id="4">
 							<div class="video4 video">
 									<video loop muted="" playsinline="" class="nav-video1">
-										<source src="video/dummy.mp4" type="video/mp4">
+										<source src="./video/dummy.mp4" type="video/mp4">
 									</video>
 								</div>											
 					</div>
@@ -234,9 +234,9 @@
 
   </div>
 </body>
-<script type="text/javascript" src="common/js/jquery.min.js"></script>
-<script type="text/javascript" src="common/js/common.js"></script>
+<script type="text/javascript" src="./common/js/jquery.min.js"></script>
+<script type="text/javascript" src="./common/js/common.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="common/js/script.js"></script>
+<script type="text/javascript" src="./common/js/script.js"></script>
 
 </html>
